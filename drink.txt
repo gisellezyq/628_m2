@@ -1,0 +1,16 @@
+alcohol
+wine
+beer
+teas
+coffees
+cocktails
+cocoa
+chocolate
+cider
+soda
+juice
+water
+milk
+cola
+pepsi
+MountDew

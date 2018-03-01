@@ -1,0 +1,32 @@
+American(New)
+American(Traditional)
+Thai
+Mexican
+Japanese
+Italian
+Greek
+Vietnamese
+Caribbean
+Szechuan
+Mediterranean
+Austrian
+Asian
+Latin Ameican
+Turkish
+Uzbek
+Spanish
+Middle Eastern
+Arabian
+Southern
+Filipino
+Taiwanese
+Scottish
+Pakistani
+German
+Korean
+Indian
+Chinese
+Irish
+Brazilian
+British
+Hawaiian
